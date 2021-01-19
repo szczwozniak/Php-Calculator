@@ -10,6 +10,7 @@
         <li>Dividing</li>
         <li>Square</li>
         <li>Square Root</li>
+        <li>New CSS</li>
         <li>If User Didn't Filled The Two Boxes It Gives Error: Please Input in The Box#:~</li>
         <li>No XSS Prompts :V </li>
     </ul>
