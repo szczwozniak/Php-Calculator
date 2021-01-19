@@ -1,0 +1,3 @@
+Oprogramowanie jest stworzone przez XYZ.
+Oprogramowanie może być dowolnie modyfikowane oraz wykorzystywane według uznania.
+Warunkiem udostępniania jest zawarcie autora kodu źródłowego w oprogramowaniu.
